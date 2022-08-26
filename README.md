@@ -24,3 +24,7 @@ Link : https://discord.com/developers/applications
 Invite Your Bot Link : https://discord.com/oauth2/authorize?scope=applications.commands%20bot&permissions=277562354688&client_id=MY_BOT_ID
 
 Restart Your Server
+
+# This is my first "fivem script!"
+
+As it says this is my first fivem script! 
