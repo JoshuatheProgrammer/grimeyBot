@@ -25,6 +25,12 @@ Invite Your Bot Link : https://discord.com/oauth2/authorize?scope=applications.c
 
 Restart Your Server
 
-# This is my first "fivem script!"
+# Core Functions
 
-As it says this is my first fivem script! 
+The functions of this script
+
+As of right now it only displays amount of players on the server!
+
+# Will I Add More To It?
+
+Yes Indeed I Will! 
